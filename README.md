@@ -1,3 +1,3 @@
 # Freecodecamp
 Freecodecamp solutions
-Basic Algorithm Scripting from freecodecamp challenge
+Basic Algorithm scripting from freecodecamp challenge
