@@ -1,0 +1,54 @@
+
+body
+{
+  background-color:olive;
+}
+.calc
+{
+  width: 265px;
+  height: 360px;
+  border: 1px solid;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 150px;
+}
+button
+{
+  height:30px;
+  width:50px;
+ 
+}
+.button
+{
+  background:white;
+  color:#e67e22;
+ font-weight:bold;
+  padding:10px;
+  cursor:pointer;
+}
+.button:hover
+{
+  background:olive;  
+  border: 2px solid olive;
+}
+
+.head
+{
+  height:40px;
+  width:210px;
+  background:olive;
+  color:white;
+  text-align:center;
+  padding:10px;
+  font-weight:bold;
+}
+.text
+{width:210px;
+  text-align:right;
+}
+.calc
+{
+  background:#e67e22;
+}
+  
