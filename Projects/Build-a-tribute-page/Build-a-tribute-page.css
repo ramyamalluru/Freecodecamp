@@ -1,0 +1,27 @@
+
+h1
+{
+  color:#440044;
+  font-size:70px;
+  font-family:monospace
+}
+h4
+{
+  color:#440044;
+  font-size:40px;
+  font-family:monospace
+}
+.imgshape
+{
+  width:700px;
+  height:600px;
+  
+}
+li
+{
+  font-size:20px;
+}
+div
+{
+  background-color:silver;
+}
