@@ -1,2 +1,2 @@
 # Freecodecamp
-Freecodecamp solutions for front end development certification.
+solutions for Freecodecamp front end development certification.
