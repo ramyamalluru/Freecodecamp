@@ -1,0 +1,50 @@
+.body
+{
+ display: inline-block;
+  width: 164px;
+  height: 163px;
+ 
+  
+}
+body
+{
+  background-color:olive;
+}
+
+.well
+{
+  border-radius:20px;
+  width:200px;
+  height:100px;
+  text-align:center;
+  background-color:salmon;
+}
+#tcheck
+{
+  height:50px;
+  border-radius:90px;
+  background-color:#3498db;
+}
+#temp
+{
+  border-radius:20pX;
+  height:50px;
+  width:80px;
+  margin:0 auto;
+  background-color:white;
+  border:1px solid white;
+  font-weight:bold;
+  font-size:30px;
+}
+.cmp
+{
+  background-color:    #d5d8dc
+
+
+;
+  width:400px;
+  height:100px;
+  text-align:center;
+  margin:auto;
+}
+

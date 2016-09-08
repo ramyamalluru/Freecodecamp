@@ -1,0 +1,208 @@
+.quarter
+{ 
+  height:300px;
+  width:300px;
+  position:relative;
+  float:left;
+  margin:0 ;
+
+  
+}
+  .container
+  {
+    margin:80px auto;
+    width:800px;
+   
+  }
+
+#q1 {
+    background-color:green;
+    
+    border-radius: 400px 0 0 0;
+    border-top: 20px solid black;
+    border-left: 20px solid black;
+  
+}
+
+#q2 {
+    background-color:red;
+   
+    border-radius: 0 400px 0 0;
+    border-top: 20px solid black;
+    border-right: 20px solid black;
+}
+.lit
+{
+  opacity:0.4;
+}
+#q3 {
+  
+    background-color:yellow;
+   
+    border-radius: 0 0 0 400px ;
+    border-bottom: 20px solid black;
+    border-left: 20px solid black;
+}
+#q4
+{
+    background-color:blue;
+    
+    border-radius: 0 0 400px 0;
+    border-bottom: 20px solid black;
+    border-right: 20px solid black;
+}
+#outercircle
+{
+ display:inline;
+  margin:auto;
+  
+  
+  
+}
+
+
+
+#innercircle
+{
+ 
+  
+  
+  border-radius:100px;
+  background-color:white;
+   position:relative;
+   
+    top: 130px;
+    left: 150px;
+    width: 300px;
+    height: 300px;
+   
+    border-radius: 300px;
+    border: 15px solid black;
+    color: black;
+  
+ 
+}
+
+.input
+{
+  display:inline-block;
+  width:50px;
+  height:40px;
+  border:5px solid green;
+  border-radius:10px;
+  margin-left:5px;
+  padding:5px;
+  
+}
+.row
+{
+  display:inline-block;
+  position:absolute;
+  left:40px;
+  top:90px;
+}
+.btn
+{
+  height:40px;
+  width:40px;
+   border:4px solid black;
+  border-radius:60px;
+  
+}
+.startbutton
+{
+  background-color:red;
+}
+.strictbutton
+{
+  background-color:yellow;
+}
+
+h2
+{
+  display:inline-block;
+  position:absolute;
+  left:70px;
+}
+.switch
+{
+  
+  height:30px;
+  width:50px;
+  left:130px;
+  top:160px;
+  border:3px solid black;
+  border-radius:20px;
+}
+#on
+{
+ visibility:hidden;
+  background:olive;
+  height:27px;
+  width:20px;
+  
+  margin:0px 0px -2px 0px;
+  border:3px solid black;
+  border-radius:10px;
+  position:absolute;
+}
+#off
+{ 
+  background:olive;
+  height:27px;
+  width:20px;
+   left:24px;
+  top:0px;
+  border:3px solid black;
+  border-radius:10px;
+  position:absolute;
+  
+}
+#ont
+{
+  color:black;
+  font-size:20px;
+  
+  height:40px;
+  width:20px;
+  position:absolute;
+ 
+  left:-40px;
+  display:inline-block;
+}
+#offt
+{
+  color:black;
+  font-size:20px;
+  
+  height:40px;
+  width:20px;
+  position:absolute;
+  
+  left:50px;
+  display:inline-block;
+  
+}
+h6
+{
+  color:black;
+}
+#winner
+{
+  color:black;
+  font-size:30px;
+  font-family:cursive;
+}
+#strict
+{
+  color:black;
+  font-size:30px;
+  font-family:cursive;
+  
+}
+body
+{
+  
+}
+
+

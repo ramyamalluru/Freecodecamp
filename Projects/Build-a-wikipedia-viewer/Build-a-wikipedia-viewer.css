@@ -1,0 +1,24 @@
+a:hover
+{
+  background-color:#FF6666;
+  
+}
+a:visited
+{
+  color:green;
+}
+body
+{
+  background-color:#092B40;
+}
+#item
+{
+  background-color:white;
+  font-size:20px;
+}
+#search
+{
+  height:30px;
+  font-weight:bold;
+  
+}

@@ -1,0 +1,91 @@
+<div class="container-fluid">
+    <h1>Tic-Tac-Toe Game</h1>
+   
+    
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <!-- <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title"></h4>
+        </div>-->
+                <div class="modal-body">
+                    <p>choose X or O.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default player" data-dismiss="modal" id='button1' value='X'>X</button>
+                    <button type="button" class="btn btn-default player" data-dismiss="modal" value='O'>O</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="modal fade" id="myModal1" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                
+                <div class="modal-body">
+                    <p id="swinner"></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" id='reset'>Restart</button>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <div class="table">
+        <div class="row">
+            <!-- <div class="col-md-4"></div>-->
+
+            <div id='0' name='0' class="cell square"></div>
+
+            <div id='1' name='1' class="cell square"></div>
+
+
+
+            <div id='2' name='2' class="cell square"></div>
+
+        </div>
+        <div class="row">
+            <!--<div class="col-md-4"></div>-->
+            <div id='3' class="cell square" name='3'> </div>
+
+
+            <div id='4' class="square cell" name='4'></div>
+
+
+            <div id='5' class="square cell" name='5'></div>
+
+        </div>
+
+        <div class="row">
+
+
+            <!-- <div class="col-md-4"></div>-->
+
+            <div id='6' class="cell square" name='6'></div>
+
+
+            <div id='7' class="cell square" name='7'></div>
+
+            <div id='8' class="cell square" name='8'></div>
+
+
+        </div>
+
+    </div>
+    <!--<button type="button"  id="reset">reset</button>-->
+    <h1>Start with your turn and then wait for computers turn</h1>
+
+</div>

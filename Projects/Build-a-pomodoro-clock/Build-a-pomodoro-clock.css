@@ -1,0 +1,64 @@
+body
+{
+  text-align:center;
+  margin:0 auto;
+  background-color:black;
+}
+.sbutton
+{
+  color:white;
+  font-size:40px;
+}
+.pInput
+{
+  display:inline;
+  color:olive;
+  font-size:40px;
+}
+.txt
+{
+  color: #DFDAC7;
+  font-size:30px;
+}
+.pbutton
+{
+  border:2px solid olive;
+  color:olive;
+  height:50px;
+  width:140px;
+  font-weight:bold;
+  font-size:30px;
+}
+.show
+{
+  margin:0 auto;
+  background-color:olive;
+  height:400px;
+  width:400px;
+  padding:140px;
+  border-radius:200px;
+}
+.time
+{
+  font-size:40px;
+}
+h1
+{
+  font-family:cursive;
+  color: olive;
+  font-weight:bold;
+}
+h2,#info
+{
+  font-family:cursive;
+  color:olive;
+}
+#info
+{
+  font-family:cursive;
+  color:olive;
+  background-colr:red;
+  height:50px;
+  width:200px;
+  font-size:30px;
+}
