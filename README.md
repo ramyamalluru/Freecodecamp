@@ -1,3 +1,2 @@
 # Freecodecamp
-Freecodecamp solutions
-Basic Algorithm scripting from freecodecamp challenge
+Solutions for Freecodecamp front end development certification.
